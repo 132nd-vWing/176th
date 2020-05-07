@@ -22,6 +22,12 @@ CASTLE WAREHOUSE
 ### ZANGI-3
 *Fly 335°, climb to 1500ft AGL by CASTLE, turn 068° and climb to be above 2000ft AGL by WAREHOUSE. Turn 160° to pass BRIDGE above 2000ft AGL*
 
+### MAHAN-1
+*Fly 165°, climb to 1500ft AGL by BEND, turn 110° and climb to be above 2000ft AGL by BRIDGE*
+
+### MAHAN-2
+*Fly 165°, climb to 1500ft AGL by BEND, turn 235° and climb to be above 2000ft AGL by HILLS*
+
 ## ARRIVALS
 
 ### ZAR-1
@@ -32,6 +38,12 @@ CASTLE WAREHOUSE
 
 ### ZAR-3
 *Enter BRIDGE above 2000ft AGL, continue to WAREHOUSE at 2000ft AGL or ABOVE. Descend to 1500ft AGL by CASTLE for recovery*
+
+### MASHI-1
+*Enter BRIDGE above 2000ft AGL, descend to 1500ft AGL by BEND for recovery*
+
+### MASHI-2
+*Enter HILLS above 2000ft AGL, descend to 1500ft AGL by BEND for recovery*
 
 # OIKB - BANDAR ABBAS AFB
 
@@ -47,3 +59,10 @@ CASTLE WAREHOUSE
 | OMAHA   | N 26 56.803 E 056 16.867 | 2000< FT AGL |
 | LAKE    | N 27 09.729 E 056 32.198 | 1500< FT AGL |
 
+## DEPARTURES
+
+### ZAR-1
+
+## ARRIVALS
+
+### ZAR-1

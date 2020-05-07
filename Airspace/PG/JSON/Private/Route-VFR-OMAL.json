@@ -1,0 +1,257 @@
+{
+  "drawings": [
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffff8000",
+      "colorBg": "#00ff8000",
+      "id": "{8f6a1960-0363-4165-aff4-bbf653af119f}",
+      "lineWidth": 3,
+      "name": "Polygon3",
+      "points": [
+        {
+          "x": 55.5947666666667,
+          "y": 24.1629
+        },
+        {
+          "x": 55.6093166666667,
+          "y": 24.2618166666667
+        }
+      ],
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "line"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffff8000",
+      "colorBg": "#00ff8000",
+      "id": "{5f4bc815-5eca-4fc2-bf62-39a08fc8d461}",
+      "lineWidth": 3,
+      "name": "Polygon2",
+      "points": [
+        {
+          "x": 55.7688333333333,
+          "y": 24.5636666666667
+        },
+        {
+          "x": 55.6139,
+          "y": 24.4243666666667
+        },
+        {
+          "x": 55.6093166666667,
+          "y": 24.2618166666667
+        }
+      ],
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "line"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffff8000",
+      "colorBg": "#00ff8000",
+      "id": "{7323be6a-5374-4eda-a1ef-430dd69910c0}",
+      "lineWidth": 3,
+      "name": "Polygon3",
+      "points": [
+        {
+          "x": 55.6139,
+          "y": 24.4243666666667
+        },
+        {
+          "x": 55.82135,
+          "y": 24.3551666666667
+        }
+      ],
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "line"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffff8000",
+      "colorBg": "#00ff8000",
+      "id": "{a8a844af-b31a-48f3-bf66-75aaf3c8c9e5}",
+      "lineWidth": 3,
+      "name": "Polygon4",
+      "points": [
+        {
+          "x": 55.82135,
+          "y": 24.3551666666667
+        },
+        {
+          "x": 55.5947666666667,
+          "y": 24.1629
+        },
+        {
+          "x": 55.6918333333333,
+          "y": 24.1112833333333
+        }
+      ],
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "line"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "center_x": 55.7688333333333,
+      "center_y": 24.5636666666667,
+      "color": "#3fdc143c",
+      "colorBg": "#3fdc143c",
+      "id": "{7d8883db-df66-4a5b-a84f-39671c12bad0}",
+      "lineWidth": 1,
+      "name": "VILLAGE",
+      "radius": 1000,
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "circle"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffdc143c",
+      "colorBg": "#00dc143c",
+      "font": "Arial",
+      "id": "{6191d3b6-9fdb-4ec1-997d-9e86a6a663f9}",
+      "lineWidth": 20,
+      "name": "VILLAGE_label",
+      "pos_x": 55.7688333333333,
+      "pos_y": 24.5636666666667,
+      "shared": false,
+      "text": "VILLAGE",
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "text"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "center_x": 55.6139,
+      "center_y": 24.4243666666667,
+      "color": "#3fdc143c",
+      "colorBg": "#3fdc143c",
+      "id": "{cafb7b53-c850-469a-89bf-8ea106cb74dc}",
+      "lineWidth": 1,
+      "name": "T-JUNCTION",
+      "radius": 1000,
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "circle"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffdc143c",
+      "colorBg": "#00dc143c",
+      "font": "Arial",
+      "id": "{21a0a138-cf8d-4d69-88d2-5208a8c3163e}",
+      "lineWidth": 20,
+      "name": "T-JUNCTION_label",
+      "pos_x": 55.6139,
+      "pos_y": 24.4243666666667,
+      "shared": false,
+      "text": "T-JUNCTION",
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "text"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "center_x": 55.82135,
+      "center_y": 24.3551666666667,
+      "color": "#3fdc143c",
+      "colorBg": "#3fdc143c",
+      "id": "{07d348aa-5c6a-4113-91b8-bd17382d540f}",
+      "lineWidth": 1,
+      "name": "CIRCLES",
+      "radius": 1000,
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "circle"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffdc143c",
+      "colorBg": "#00dc143c",
+      "font": "Arial",
+      "id": "{49a54f19-de8c-425f-8d9e-d86208132d25}",
+      "lineWidth": 20,
+      "name": "CIRCLES_label",
+      "pos_x": 55.82135,
+      "pos_y": 24.3551666666667,
+      "shared": false,
+      "text": "CIRCLES",
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "text"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "center_x": 55.5947666666667,
+      "center_y": 24.1629,
+      "color": "#3fdc143c",
+      "colorBg": "#3fdc143c",
+      "id": "{a6cf21ff-cea0-41fc-a6d1-8c1e56bcad81}",
+      "lineWidth": 1,
+      "name": "FIELDS",
+      "radius": 1000,
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "circle"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffdc143c",
+      "colorBg": "#00dc143c",
+      "font": "Arial",
+      "id": "{3b4142dc-ee3a-482c-8bd7-b87bd1e00fbd}",
+      "lineWidth": 20,
+      "name": "FIELDS_label",
+      "pos_x": 55.5947666666667,
+      "pos_y": 24.1629,
+      "shared": false,
+      "text": "FIELDS",
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "text"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "center_x": 55.6918333333333,
+      "center_y": 24.1112833333333,
+      "color": "#3fdc143c",
+      "colorBg": "#3fdc143c",
+      "id": "{dffc256c-a49c-459e-8518-38014ac20e0f}",
+      "lineWidth": 1,
+      "name": "ROADS",
+      "radius": 1000,
+      "shared": false,
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "circle"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffdc143c",
+      "colorBg": "#00dc143c",
+      "font": "Arial",
+      "id": "{fcc224c7-776c-415f-91f9-6ad4017b4203}",
+      "lineWidth": 20,
+      "name": "ROADS_label",
+      "pos_x": 55.6918333333333,
+      "pos_y": 24.1112833333333,
+      "shared": false,
+      "text": "ROADS",
+      "timestamp": "02.02.2020-00:00:00",
+      "type": "text"
+    }
+  ],
+  "enable": "true",
+  "version": "1.1.0-beta2"
+}

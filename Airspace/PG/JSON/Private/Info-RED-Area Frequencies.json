@@ -1,0 +1,38 @@
+{
+  "drawings": [
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffff0000",
+      "colorBg": "#7fffff00",
+      "font": "Arial",
+      "id": "{fd8c2c10-783f-458b-8c34-67645948e342}",
+      "lineWidth": 24,
+      "name": "124.2_label",
+      "pos_x": 56.2004156502851,
+      "pos_y": 26.084851038377,
+      "shared": false,
+      "text": "124.2",
+      "timestamp": "30.01.2020-00:00:00",
+      "type": "text"
+    },
+    {
+      "author": "CombatFlite",
+      "brushStyle": 1,
+      "color": "#ffff0000",
+      "colorBg": "#7fffff00",
+      "font": "Arial",
+      "id": "{79a2aea1-d66d-4308-9599-83b921171372}",
+      "lineWidth": 24,
+      "name": "124.8_label",
+      "pos_x": 56.2926733581796,
+      "pos_y": 25.0106608647926,
+      "shared": false,
+      "text": "124.8",
+      "timestamp": "30.01.2020-00:00:00",
+      "type": "text"
+    }
+  ],
+  "enable": "true",
+  "version": "1.1.0-beta2"
+}

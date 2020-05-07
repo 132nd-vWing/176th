@@ -1,0 +1,200 @@
+{
+	"drawings": [
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ff8080ff",
+			"colorBg": "#008080ff",
+			"id": "{e02443ba-ce99-445d-8bcb-314a9059d5e1}",
+			"lineWidth": 3,
+			"name": "TC AFRA",
+			"points": [
+				{
+					"x": 53.8298784930643,
+					"y": 23.64664806749
+				},
+				{
+					"x": 54.4448252159428,
+					"y": 23.2941052136381
+				},
+				{
+					"x": 55.4256652389338,
+					"y": 25.0263475835792
+				}
+			],
+			"shared": true,
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "line"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ff8080ff",
+			"colorBg": "#008080ff",
+			"id": "{6a4c2084-bf85-406d-bf63-3b3c513a9d49}",
+			"lineWidth": 3,
+			"name": "TC BEDA",
+			"points": [
+				{
+					"x": 54.8083403417054,
+					"y": 23.7991619347612
+				},
+				{
+					"x": 57.0919706561918,
+					"y": 23.8196737815928
+				}
+			],
+			"shared": true,
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "line"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ff8080ff",
+			"colorBg": "#008080ff",
+			"id": "{c7e1841e-57c5-43aa-a00e-90c0bdf2d164}",
+			"lineWidth": 3,
+			"name": "TC CARA",
+			"points": [
+				{
+					"x": 55.0195946053763,
+					"y": 24.2210018889739
+				},
+				{
+					"x": 56.6638910463621,
+					"y": 24.3770219689101
+				}
+			],
+			"shared": true,
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "line"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ff8080ff",
+			"colorBg": "#008080ff",
+			"id": "{4698a003-c486-44c5-8ad2-6ca267ad0bff}",
+			"lineWidth": 3,
+			"name": "TC DARCY",
+			"points": [
+				{
+					"x": 53.7145272550932,
+					"y": 23.7084517357577
+				},
+				{
+					"x": 54.1667354799382,
+					"y": 24.2897523202114
+				}
+			],
+			"shared": true,
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "line"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ff8080ff",
+			"colorBg": "#008080ff",
+			"id": "{47f79bc8-9bad-44d5-81de-9369c4bbf6d5}",
+			"lineWidth": 3,
+			"name": "TC ELLY",
+			"points": [
+				{
+					"x": 50.612114296534,
+					"y": 23.9018546162101
+				},
+				{
+					"x": 53.8557019099713,
+					"y": 23.8981604635049
+				}
+			],
+			"shared": true,
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "line"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ffffffff",
+			"colorBg": "#7fffff00",
+			"font": "Arial",
+			"id": "{102faf98-561a-41e1-b8fb-06693fed1d86}",
+			"lineWidth": 64,
+			"name": "TC AFRA_label",
+			"pos_x": 54.0178022732015,
+			"pos_y": 23.4520601179016,
+			"shared": true,
+			"text": "TC AFRA",
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "text"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ffffffff",
+			"colorBg": "#7fffff00",
+			"font": "Arial",
+			"id": "{4b988b91-3d91-4682-921f-ef0ddf3333ed}",
+			"lineWidth": 64,
+			"name": "TC BEDA_label",
+			"pos_x": 55.8087514101383,
+			"pos_y": 23.7848275414672,
+			"shared": true,
+			"text": "TC BEDA",
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "text"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ffffffff",
+			"colorBg": "#7fffff00",
+			"font": "Arial",
+			"id": "{52e6e19e-af74-4ebb-bf6e-ab8b80b258f0}",
+			"lineWidth": 64,
+			"name": "TC DARCY_label",
+			"pos_x": 53.9229248864111,
+			"pos_y": 24.022790316045,
+			"shared": true,
+			"text": "TC DARCY",
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "text"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ffffffff",
+			"colorBg": "#7fffff00",
+			"font": "Arial",
+			"id": "{651b68b7-f60c-4076-afa6-b341301d5143}",
+			"lineWidth": 64,
+			"name": "TC ELLY_label",
+			"pos_x": 53.177214877766,
+			"pos_y": 23.9443378808004,
+			"shared": true,
+			"text": "TC ELLY",
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "text"
+		},
+		{
+			"author": "CombatFlite",
+			"brushStyle": 1,
+			"color": "#ffffffff",
+			"colorBg": "#7fffff00",
+			"font": "Arial",
+			"id": "{b1f78dfc-89d7-4314-93d6-2ce5832ea6b6}",
+			"lineWidth": 64,
+			"name": "TC CARA_label",
+			"pos_x": 54.7278269822519,
+			"pos_y": 23.7321052576555,
+			"shared": true,
+			"text": "TC CARA",
+			"timestamp": "30.01.2020-00:00:00",
+			"type": "text"
+		}
+	],
+	"enable": "true",
+	"version": "1.1.0-beta2"
+}

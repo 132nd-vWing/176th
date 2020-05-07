@@ -61,8 +61,34 @@ CASTLE WAREHOUSE
 
 ## DEPARTURES
 
-### ZAR-1
+### TASBAR-1
+*Fly 025° and climb to 1500ft AGL by PLANT, turn 320° and climb to be above 4500ft AGL by GENE*
+
+### TASBAR-2
+*Fly 025° and climb to 1500ft AGL by PLANT, turn 085° and climb to be above 2000ft AGL by HIGHWAY*
+
+### KAL-1
+*Fly 205° and climb to 1500ft AGL by FORK, turn 260° to pass PIERS. Turn 280° and climb to be above 2000ft AGL by RIDGE*
+
+### KAL-2
+*Fly 205° and climb to 1500ft AGL by FORK, turn 195° and climb to be above 2000ft AGL by OMAHA*
+
+### KAL-3
+*Fly 205° and climb to 1500ft AGL by FORK, turn 090° to pass LAKE. Turn 035° and climb to be above 2000ft AGL by HIGHWAY*
 
 ## ARRIVALS
 
-### ZAR-1
+### TAKHT-1
+*Enter GENE at 4500ft AGL minimum. Descend to 1500ft ALG by PLANT for recovery*
+
+### TAKHT-2
+*Enter HIGHWAY at 2000ft AGL minimum. Descend to 1500ft ALG by PLANT for recovery*
+
+### KESHAR-1
+*Enter RIDGE at 2000ft AGL minimum. Descend to 1500ft AGL by PIERS and continue PLANT for recovery*
+
+### KESHAR-2
+*Enter OMAHA at 2000ft AGL minimum. Descend to 1500ft AGL by PLANT for recovery*
+
+### KESHAR-3
+*Enter HIGHWAY at 2000ft AGL minimum. Descend to 1500ft AGL by LAKE and continue PLANT for recovery*

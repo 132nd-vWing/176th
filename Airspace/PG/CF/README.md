@@ -16,7 +16,6 @@
 *Fly 335°, climb to 1500ft AGL at CASTLE and above 2000ft at COOPER*
 
 ### ZANGI-2
-CASTLE WAREHOUSE
 *Fly 335°, climb to 1500ft AGL by CASTLE, turn 068° and climb to be above 2000ft AGL at WAREHOUSE. Continue EAST or NORTH.*
 
 ### ZANGI-3
